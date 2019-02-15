@@ -1,2 +1,4 @@
-# wwcodemanila.github.io
-This is Women Who Code Manila Official Github Repository
+# This is Women Who Code Manila Official Github Repository
+
+Check out - https://wwcodemanila.github.io
+
